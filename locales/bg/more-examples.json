@@ -1,0 +1,17 @@
+{
+  "example-with-variable": "Това е пример с променлива {{count}}",
+  "plural-example": "Това е единствено число, защото стойността е {{count}}",
+  "plural-example_0": "Е нула, защото стойността е {{count}}",
+  "plural-example_2": "Е две, защото стойността е {{count}}",
+  "plural-example_other": "Е в множествено число, защото стойността е {{count}}",
+  "example-with-html": "<0>Това е пример <1>използвайки HTML</1> в превода</0>",
+  "no-functional-example": "Преводът е направен от нефункционален компонент",
+  "dynamic-namespaces-link": "Вижте пример за динамичен namespace link",
+  "dynamic-route": "Динамичен линк",
+  "go-to-home": "Връщане на началната страница",
+  "nested-example": {
+    "very-nested": {
+      "nested": "Вложен пример!"
+    }
+  }
+}

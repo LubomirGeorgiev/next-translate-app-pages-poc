@@ -1,0 +1,21 @@
+{
+  "name": "-",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "next-translate": "2.6.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.21",
+    "@types/react": "18.2.60",
+    "next-translate-plugin": "2.6.2"
+  }
+}
