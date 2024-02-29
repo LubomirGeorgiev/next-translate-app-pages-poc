@@ -3,6 +3,7 @@
   "defaultLocale": "en",
   "pages": {
     "*": ["common"],
+    "/app-router": ["common"],
     "/404": ["error"],
     "/": ["home"],
     "/dashboard": ["home"],
