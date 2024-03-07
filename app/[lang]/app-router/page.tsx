@@ -1,6 +1,8 @@
+'use client';
+
 import useTranslation from "next-translate/useTranslation"
 
-const AppRouterPage = () => {
+const AppRouterPage = (prop) => {
     const { lang, t } = useTranslation('common')
 
     return (

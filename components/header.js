@@ -31,6 +31,7 @@ export default function Header() {
           alignItems: 'center',
         }}>
           <h2>{t('change-language')}</h2>
+          <p className='change-language'>{t('current-language')}: {lang}</p>
           <div style={{ marginLeft: 10 }}>
             {locales.map((locale) => {
               if (locale !== lang) {

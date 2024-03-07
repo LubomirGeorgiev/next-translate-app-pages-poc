@@ -1,4 +1,5 @@
 {
   "title": "next-translate library",
-  "change-language": "Change language"
+  "change-language": "Change language",
+  "current-language": "Current language"
 }

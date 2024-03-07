@@ -1,4 +1,5 @@
 {
   "title": "Библиотека next-translate",
-  "change-language": "Смяна на езика"
+  "change-language": "Смяна на езика",
+  "current-language": "Текущ език"
 }

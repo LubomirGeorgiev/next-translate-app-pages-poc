@@ -1,3 +1,8 @@
 const nextTranslate = require('next-translate-plugin')
 
-module.exports = nextTranslate()
+
+const config = nextTranslate()
+
+// config.i18n = undefined;
+
+module.exports = config
